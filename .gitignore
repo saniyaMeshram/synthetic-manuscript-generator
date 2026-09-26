@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+*.pyc
+output/dataset/
+output/*.zip
+node_modules/
+client/node_modules/
+client/dist/
